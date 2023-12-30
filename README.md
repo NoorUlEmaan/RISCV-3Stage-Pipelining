@@ -14,7 +14,7 @@ This repository contains the Verilog implementation of a processor design. The p
 
 ## Overview
 
-The Verilog processor is a complete design that encompasses various modules to execute instructions efficiently. It includes components like the instruction cache, register file, data memory, forwarding unit, hazard detection unit, instruction decoder, load/store unit, and more.
+This is a complete design that encompasses various modules to execute instructions efficiently. It includes components like the instruction cache, register file, data memory, forwarding unit, hazard detection unit, instruction decoder, load/store unit, and more.
 
 ## Modules
 
