@@ -53,7 +53,7 @@ Implements a program counter with reset and clock inputs.
 
 ## Design Diagram
 
-
+RISCV-3Stage-Pipelining.drawio
 
 ## Getting Started
 
